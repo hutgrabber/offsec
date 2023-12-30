@@ -1,0 +1,21 @@
+# Dirsearch started Wed Dec 20 19:32:53 2023 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://192.168.191.49/mail/
+
+403   279B   http://192.168.191.49/mail/.ht_wsr.txt
+403   279B   http://192.168.191.49/mail/.htaccess.bak1
+403   279B   http://192.168.191.49/mail/.htaccess.save
+403   279B   http://192.168.191.49/mail/.htaccess.orig
+403   279B   http://192.168.191.49/mail/.htaccess_extra
+403   279B   http://192.168.191.49/mail/.htaccess.sample
+403   279B   http://192.168.191.49/mail/.htaccess_sc
+403   279B   http://192.168.191.49/mail/.htaccess_orig
+403   279B   http://192.168.191.49/mail/.htaccessOLD
+403   279B   http://192.168.191.49/mail/.htaccessBAK
+403   279B   http://192.168.191.49/mail/.htaccessOLD2
+403   279B   http://192.168.191.49/mail/.htm
+403   279B   http://192.168.191.49/mail/.html
+403   279B   http://192.168.191.49/mail/.htpasswd_test
+403   279B   http://192.168.191.49/mail/.htpasswds
+403   279B   http://192.168.191.49/mail/.httr-oauth
+403   279B   http://192.168.191.49/mail/.php
+500     0B   http://192.168.191.49/mail/contact.php
+200   761B   http://192.168.191.49/mail/contact.js

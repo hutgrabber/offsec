@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE items [
+<!ELEMENT items (item*)>
+<!ATTLIST items burpVersion CDATA "">
+<!ATTLIST items exportTime CDATA "">
+<!ELEMENT item (time, url, host, port, protocol, method, path, extension, request, status, responselength, mimetype, response, comment)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT host (#PCDATA)>
+<!ATTLIST host ip CDATA "">
+<!ELEMENT port (#PCDATA)>
+<!ELEMENT protocol (#PCDATA)>
+<!ELEMENT method (#PCDATA)>
+<!ELEMENT path (#PCDATA)>
+<!ELEMENT extension (#PCDATA)>
+<!ELEMENT request (#PCDATA)>
+<!ATTLIST request base64 (true|false) "false">
+<!ELEMENT status (#PCDATA)>
+<!ELEMENT responselength (#PCDATA)>
+<!ELEMENT mimetype (#PCDATA)>
+<!ELEMENT response (#PCDATA)>
+<!ATTLIST response base64 (true|false) "false">
+<!ELEMENT comment (#PCDATA)>
+]>
+<items burpVersion="2023.10.3.6" exportTime="Wed Dec 20 20:43:16 EST 2023">
+  <item>
+    <time>Wed Dec 20 20:42:57 EST 2023</time>
+    <url><![CDATA[http://192.168.191.50/login.aspx]]></url>
+    <host ip="192.168.191.50">192.168.191.50</host>
+    <port>80</port>
+    <protocol>http</protocol>
+    <method><![CDATA[POST]]></method>
+    <path><![CDATA[/login.aspx]]></path>
+    <extension>aspx</extension>
+    <request base64="true"><![CDATA[UE9TVCAvbG9naW4uYXNweCBIVFRQLzEuMQ0KSG9zdDogMTkyLjE2OC4xOTEuNTANClVzZXItQWdlbnQ6IE1vemlsbGEvNS4wIChYMTE7IExpbnV4IGFhcmNoNjQ7IHJ2OjEwOS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzExNS4wDQpBY2NlcHQ6IHRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL2F2aWYsaW1hZ2Uvd2VicCwqLyo7cT0wLjgNCkFjY2VwdC1MYW5ndWFnZTogZW4tVVMsZW47cT0wLjUNCkFjY2VwdC1FbmNvZGluZzogZ3ppcCwgZGVmbGF0ZSwgYnINClJlZmVyZXI6IGh0dHA6Ly8xOTIuMTY4LjE5MS41MC9sb2dpbi5hc3B4DQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZA0KQ29udGVudC1MZW5ndGg6IDUzOQ0KT3JpZ2luOiBodHRwOi8vMTkyLjE2OC4xOTEuNTANCkNvbm5lY3Rpb246IGNsb3NlDQpVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzOiAxDQoNCl9fVklFV1NUQVRFPSUyRndFUER3VUtNakEzTVRneE1UTTROdzlrRmdKbUQyUVdBZ0lERDJRV0FnSUJEMlFXQWdJSER3OFdBaDRFVkdWNGRBVW1TVzUyWVd4cFpDQmpjbVZrWlc1MGFXRnNjeTRnVUd4bFlYTmxJSFJ5ZVNCaFoyRnBiaTVrWkdRQlBUZE1xUzVVbDNTTU50R3RnJTJGUCUyRnlZJTJGOXd2dlBMRkt6eHgxS1E1UFlrUSUzRCUzRCZfX1ZJRVdTVEFURUdFTkVSQVRPUj1DMkVFOUFCQiZfX0VWRU5UVkFMSURBVElPTj0lMkZ3RWRBQVFBNXEzc29vVERkM0Q0Ylh3WUthUFNHOHNMOFZBNSUyRm03Z1o5NDlKZEIydEVFJTJCUndIUnc5QVgyJTJGSVpPNGdWYWFLVmVHNnJyTHRzME03WFQ3bG1kY2I2U3lJSHIxZzlKMmljaEQlMkJzWEJPc09zVzRFdEkwWERNWTN1QnhaaUNycDgwJTNEJmN0bDAwJTI0Q29udGVudFBsYWNlSG9sZGVyMSUyNFVzZXJuYW1lVGV4dEJveD10ZXN0JmN0bDAwJTI0Q29udGVudFBsYWNlSG9sZGVyMSUyNFBhc3N3b3JkVGV4dEJveD10ZXN0JmN0bDAwJTI0Q29udGVudFBsYWNlSG9sZGVyMSUyNExvZ2luQnV0dG9uPUxvZ2lu]]></request>
+    <status></status>
+    <responselength></responselength>
+    <mimetype></mimetype>
+    <response base64="true"></response>
+    <comment></comment>
+  </item>
+</items>
