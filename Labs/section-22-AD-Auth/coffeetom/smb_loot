@@ -1,0 +1,5 @@
+SMB         192.168.216.73  445    FILES04          [+] corp.com\meg:VimForPowerShell123! 
+SMB         192.168.216.72  445    WEB04            [+] corp.com\meg:VimForPowerShell123! 
+SMB         192.168.216.70  445    DC1              [+] corp.com\meg:VimForPowerShell123! 
+SMB         192.168.216.74  445    CLIENT74         [+] corp.com\meg:VimForPowerShell123! 
+SMB         192.168.216.75  445    CLIENT75         [+] corp.com\meg:VimForPowerShell123! 
